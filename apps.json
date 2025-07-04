@@ -1,0 +1,35 @@
+{
+  "$schema": "https://aka.ms/winget-packages.schema.2.0.json",
+  "CreationDate": "2025-07-04T15:00:00.000-00:00",
+  "Sources": [
+    {
+      "Packages": [
+        { "PackageIdentifier": "Microsoft.Excel" },
+        { "PackageIdentifier": "Microsoft.Word" },
+        { "PackageIdentifier": "Microsoft.PowerPoint" },
+        { "PackageIdentifier": "Microsoft.Teams" },
+        { "PackageIdentifier": "Microsoft.Outlook" },
+        { "PackageIdentifier": "Adobe.Acrobat.Reader.64-bit" },
+        { "PackageIdentifier": "Giorgiotani.Peazip" },
+        { "PackageIdentifier": "LastPass.LastPass" },
+        { "PackageIdentifier": "Malwarebytes.Malwarebytes" },
+        { "PackageIdentifier": "Microsoft.PowerToys" },
+        { "PackageIdentifier": "Microsoft.WindowsTerminal" },
+        { "PackageIdentifier": "QL-Win.QuickLook" },
+        { "PackageIdentifier": "File-New-Project.EarTrumpet" },
+        { "PackageIdentifier": "Greenshot.Greenshot" },
+        { "PackageIdentifier": "AnyDesk.AnyDesk" },
+        { "PackageIdentifier": "flux.flux" },
+        { "PackageIdentifier": "WinSCP.WinSCP" },
+        { "PackageIdentifier": "Microsoft.PowerShell" }
+      ],
+      "SourceDetails": {
+        "Argument": "https://cdn.winget.microsoft.com/cache",
+        "Identifier": "winget",
+        "Name": "winget",
+        "Type": "Microsoft.PreIndexed.Package"
+      }
+    }
+  ],
+  "WinGetVersion": "1.11.400"
+}
