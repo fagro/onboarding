@@ -19,7 +19,6 @@
         { "PackageIdentifier": "File-New-Project.EarTrumpet" },
         { "PackageIdentifier": "Greenshot.Greenshot" },
         { "PackageIdentifier": "AnyDesk.AnyDesk" },
-        { "PackageIdentifier": "flux.flux" },
         { "PackageIdentifier": "WinSCP.WinSCP" },
         { "PackageIdentifier": "Microsoft.PowerShell" }
       ],
